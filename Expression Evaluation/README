@@ -1,0 +1,4 @@
+Evaluates expressions with arrays and variables.
+Reads array and variable values from text files, included are etest1.txt, etest2.txt, etest3.txt, but can be done with any
+test file with correct formatting.
+Assumes correct formatting.
